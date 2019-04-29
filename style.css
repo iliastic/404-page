@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://www.3dartistonline.com/users/1102/thm1024/1493743589_RainyNight_1080p.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    width: 40%;
+    height: 40%;
+} 
+.jumbotron{
+    margin-top: 10%;
+    margin-bottom: 20%
+}  
+
+header{
+    text-align: center;
+}
+
+h1 {
+    font-size: 5em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    position: absolute;
+    top: 0%;
+    left: 25%;
+    transform: translateX(-50)
+}
