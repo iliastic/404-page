@@ -1,6 +1,6 @@
 # 404-page
 
-Link to the page   https://iliastic.github.io/404-page/
+Link to the page   <https://iliastic.github.io/404-page/>
 
 Objectives
 
